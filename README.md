@@ -1,4 +1,4 @@
-# 🏡 Repp – Real Estate + AI + Finance Platform  
+# 🏡 Repp – Real Estate Pro Pal
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
@@ -76,7 +76,7 @@ npm install
 
 # Run development server
 npm run dev
-
+```
 
 repp/
 │── public/          # Static assets
@@ -89,9 +89,8 @@ repp/
 │── package.json
 │── README.md
 
-
 # 👤 Author
 
-### Newton Manyeki Kamau
+## Newton Manyeki Kamau
 ###📍 Kiambu, Kenya
-##💡 Passionate about Realtor Mechatronics Engineer, AI & Software Innovation
+###💡 Passionate about Realtor Mechatronics Engineer, AI & Software Innovation
