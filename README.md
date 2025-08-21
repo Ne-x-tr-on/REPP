@@ -76,7 +76,7 @@ npm install
 
 # Run development server
 npm run dev
-```
+
 
 repp/
 │── public/          # Static assets
@@ -88,7 +88,7 @@ repp/
 │   └── utils/       # Helpers
 │── package.json
 │── README.md
-
+```
 # 👤 Author
 
 ## Newton Manyeki Kamau
